@@ -1,10 +1,10 @@
 # Joomla_Restrictusername_plugin
-A simple plugin made with Chat GPT to check if a username respect certain condition before being register. 
+A simple plugin made with Chat GPT to check if a username respect certains conditions before being register. 
 
-Just upload the zip in you joomla extension manager and activate the plugin in your plugin configuration. 
+Just upload the zip in your joomla extension manager and activate the plugin in your plugin configuration. 
 
 You should now receive an error in the administration side if the username :
-- Is capitalize
+- is capitalize
 - has any special caractere apart from : '@' , '-' or '_'
 
 
