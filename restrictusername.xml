@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="4.0" type="plugin" group="user" method="upgrade">
+    <name>Restrict Username Plugin</name>
+    <author>Joris Lespagnol</author>
+    <creationDate>2023-06-20</creationDate>
+    <version>1.0</version>
+    <description>Plugin to restrict certain types of usernames.</description>
+    <files>
+        <filename plugin="restrictusername">restrictusername.php</filename>
+    </files>
+</extension>
